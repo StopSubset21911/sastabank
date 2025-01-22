@@ -1,1 +1,1 @@
-This is a deo for hosting a website.
+This is a demo for hosting a website.
